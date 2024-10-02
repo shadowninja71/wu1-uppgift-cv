@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lager_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595.28 337.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3d2b14;
+      }
+
+      .cls-2 {
+        fill: #1d1d1b;
+        font-family: Minecraftia-Regular, Minecraftia;
+        font-size: 120px;
+      }
+
+      .cls-3 {
+        fill: #aaaaac;
+      }
+
+      .cls-4 {
+        fill: #183458;
+      }
+
+      .cls-5 {
+        fill: #548bc7;
+      }
+    </style>
+  </defs>
+  <g id="Lager_1-2" data-name="Lager_1">
+    <polygon class="cls-1" points="532.78 230.27 513.48 253.24 490.52 233.94 500.17 222.46 488.68 212.8 498.33 201.32 486.85 191.67 496.5 180.19 485.02 170.54 494.67 159.05 483.19 149.4 492.84 137.92 481.35 128.27 491 116.79 479.52 107.14 489.17 95.65 478.12 86.37 487.77 74.88 476.29 65.23 485.94 53.75 497.42 63.4 507.07 51.92 518.56 61.57 508.91 73.05 520.39 82.7 510.74 94.19 521.79 103.47 512.14 114.95 523.62 124.6 513.97 136.09 525.45 145.74 515.8 157.22 527.29 166.87 517.64 178.35 529.12 188.01 519.47 199.49 530.95 209.14 521.3 220.62 532.78 230.27"/>
+    <rect class="cls-1" x="478.76" y="6.13" width="30" height="30" transform="translate(159.91 385.54) rotate(-49.96)"/>
+    <polygon class="cls-5" points="583.79 77.2 574.14 88.69 528.21 50.09 518.56 61.57 507.07 51.92 497.42 63.4 485.94 53.75 476.29 65.23 464.81 55.58 426.2 101.52 414.72 91.87 462.97 34.45 474.46 44.1 484.11 32.62 495.59 42.27 505.24 30.78 516.72 40.43 526.38 28.95 583.79 77.2"/>
+    <rect class="cls-4" x="466.04" y="26.03" width="15" height="15" transform="translate(143.21 374.48) rotate(-49.96)"/>
+    <rect class="cls-4" x="408.14" y="94.93" width="15" height="15" transform="translate(69.81 354.73) rotate(-49.96)"/>
+    <rect class="cls-4" x="577.21" y="80.27" width="15" height="15" transform="translate(141.33 478.93) rotate(-49.96)"/>
+    <rect class="cls-4" x="421.25" y="75.88" width="60" height="15" transform="translate(97.1 375.19) rotate(-49.96)"/>
+    <rect class="cls-4" x="395.61" y="50.83" width="75" height="15" transform="translate(109.8 352.37) rotate(-49.96)"/>
+    <rect class="cls-4" x="538.85" y="45.13" width="15" height="60" transform="translate(137.33 445.06) rotate(-49.96)"/>
+    <rect class="cls-4" x="508.31" y="22.37" width="15" height="15" transform="translate(161.09 405.53) rotate(-49.96)"/>
+    <rect class="cls-4" x="522.41" y="39.83" width="75" height="15" transform="translate(161.72 -349.13) rotate(40.04)"/>
+    <text class="cls-2" transform="translate(67.29 316.18)"><tspan x="0" y="0">Steve</tspan></text>
+    <polygon class="cls-3" points=".54 125.23 60.54 125.5 60.47 140.5 45.31 140.43 45.24 155.43 45.4 155.43 45.34 170.43 75.33 170.56 75.19 200.56 45.2 200.43 45.07 230.43 60.07 230.5 60 245.5 0 245.23 .4 155.23 .24 155.23 .31 140.23 .47 140.23 .54 125.23"/>
+  </g>
+</svg>

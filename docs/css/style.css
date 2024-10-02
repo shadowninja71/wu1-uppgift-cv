@@ -1,0 +1,41 @@
+<head>
+    <style>
+        h1 {
+            color: red;
+        }
+        p {
+            color: rgb(9, 73, 194);
+        }
+    </style>
+</head>
+body {
+    color: #121212;
+    font-family: sans-serif;
+    font-size: 1rem;
+}
+.container {
+    width: min(80ch, 100vw - 2rem);
+    margin-inline: auto;
+}
+h1 {
+    // ...
+}
+.lead {
+    font-size: 1.4rem;
+}
+a {
+    color: red;
+}
+
+a:hover {
+    color: blue;
+}
+html,
+body {
+    height: 100vh;
+}
+main {
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid rgb(0, 0, 0);
+}
