@@ -1,13 +1,6 @@
-<head>
-    <style>
-        h1 {
-            color: red;
-        }
-        p {
-            color: rgb(9, 73, 194);
-        }
-    </style>
-</head>
+
+
+
 body {
     color: #121212;
     font-family: sans-serif;
@@ -17,9 +10,7 @@ body {
     width: min(80ch, 100vw - 2rem);
     margin-inline: auto;
 }
-h1 {
-    // ...
-}
+
 .lead {
     font-size: 1.4rem;
 }
@@ -38,4 +29,14 @@ main {
     margin: 1rem;
     padding: 1rem;
     border: 3px solid rgb(0, 0, 0);
+}
+
+div{
+    padding-top: 2rem;
+
+}
+
+.contact {
+    background-color: hwb(208 94% 0%);
+    text-align: center;
 }
